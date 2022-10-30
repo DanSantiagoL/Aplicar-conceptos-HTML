@@ -1,0 +1,41 @@
+
+a{
+    font-size: 30px;
+    
+}
+
+h1{
+    font-family: verdana;
+    color:   #FB9106 ;
+    border: #FB9106 2px solid;
+    border-radius: 20px;
+}
+
+h2{
+    
+    font-family: verdana;
+    font-size: 30px;
+    color:  #FB9106  ;
+}
+
+p{
+    
+    font-size: 18px;
+    font-family:Verdana;
+
+}
+b{
+    font-size: 20px;
+    font-family:Verdana;
+}
+#Encabezado
+{
+    background-color: #FB7C5C;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+a{
+    color:#FB7C5C;
+}
+
